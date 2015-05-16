@@ -5,5 +5,5 @@
 * ✓ add `tourism` tag
 * ✓ invert zoom 9 - 13 road ordering
 
-### 1.0.2
+### 1.0.2 (upcoming)
 
